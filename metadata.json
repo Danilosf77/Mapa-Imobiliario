@@ -1,0 +1,6 @@
+{
+  "name": "Mapa Imobiliário - Central de Empreendimentos",
+  "description": "Ferramenta interna interativa de consulta de empreendimentos imobiliários para equipes comerciais em São Paulo e Grande SP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
